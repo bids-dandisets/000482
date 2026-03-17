@@ -6,13 +6,13 @@ Valid keys in each object include `"URL"`, `"DOI"` (see
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
-
+ - rules.dataset_metadata.dataset_description
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
 
 	[ERROR] TSV_VALUE_INCORRECT_TYPE A value in a column did not match the acceptable type for that column headers specified format.
 		session_id
-		/sub-Elon/sub-Elon_sessions.tsv - 'ses-ORTest_Session_YB_2022_08_08'
+		/sub-Elon/sub-Elon_sessions.tsv - 'ses-ORTest_Session_YB_2022_08_08' - rules.tabular_data.modality_agnostic.Sessions
 
 	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE for existing conversations about this issue.
 
