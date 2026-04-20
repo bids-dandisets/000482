@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Test upload. Extracellular recordings from rabbit visual cortex neurons. Orientation testing with drifting grating stimuli. Hippocampal EEG for the state scoring procedure.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Bereshpolova, Yulia"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
